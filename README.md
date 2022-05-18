@@ -1,6 +1,8 @@
 # CornetProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+## API
+npm run api
+
 
 ## Development server
 
