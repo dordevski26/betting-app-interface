@@ -1,0 +1,34 @@
+
+
+.unit {
+  margin-bottom: 7px;
+  
+}
+.unit_header{
+  padding: 3px;
+  color: white;
+  background-color: #417dc1;
+}
+.matches_list_item {
+  display: flex;
+  flex-direction: row;
+  color: white;
+
+}
+.star_empty {
+  width: 5%;
+  margin: 0 5px;
+  margin-top: 7px;
+}
+.time {
+  width: 20%;
+  margin: 5px 5px;
+}
+.pair {
+  width: 80%;
+  margin: 5px 5px;
+}
+.result {
+  width: 5%;
+  margin: 5px 5px;
+}

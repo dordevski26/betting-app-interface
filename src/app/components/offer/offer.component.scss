@@ -1,0 +1,46 @@
+.unit {
+  border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  border-right: 2px solid green;
+  border-left: 2px solid green;
+  margin-bottom: 7px;
+  width: 55vw;
+  
+}
+
+.unit_header{
+  padding: 3px;
+  color: white;
+  background-color: green;
+}
+.matches_list_item {
+  display: flex;
+  flex-direction: row;
+  color: white;
+
+}
+.star_empty {
+  width: 5%;
+  margin: 0 5px;
+  margin-top: 7px;
+  
+}
+.star_full {
+  width: 5%;
+  margin: 0 5px;
+  margin-top: 7px;
+  
+}
+
+.time {
+  width: 10%;
+  margin: 5px 5px;
+}
+.pair {
+  width: 80%;
+  margin: 5px 5px;
+}
+.result {
+  width: 5%;
+  margin: 5px 5px;
+}

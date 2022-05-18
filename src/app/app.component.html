@@ -1,0 +1,16 @@
+<div class="main">
+
+  <div class="menu">
+    <app-menu [menuItems]="menu" (filterParam)="filterOffer($event)"></app-menu>
+
+  </div>
+
+  <div class="unit_container">
+    <app-offer [offerItems]="offer" (makeFavouriteEvent)="handleFavourite($event)"></app-offer>
+
+  </div>
+  <div class="favourite_container">
+    <app-favourites [offerItems]="favourites" (removeFavouriteEvent)="handleFavourite($event)"></app-favourites>
+
+  </div>
+</div>

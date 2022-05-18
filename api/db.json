@@ -1,0 +1,128 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "opponents": "Manchester City - Real Madrid",
+      "timeOfEvent": "2022-05-01 20:00",
+      "result": "0:0",
+      "competition": "Liga Prvaka - Playoff",
+      "sport": "Nogomet",
+      "category": "Europa",
+      "status": "inPlay",
+      "isFavourite": false
+    },
+    {
+      "id": 2,
+      "opponents": "Bayern Munchen - PSG",
+      "timeOfEvent": "2022-05-02 20:00",
+      "result": "3:2",
+      "competition": "Liga Prvaka - Playoff",
+      "sport": "Nogomet",
+      "category": "Europa",
+      "status": "inPlay",
+      "isFavourite": false
+    },
+    {
+      "id": 3,
+      "opponents": "Arsenal - Atletico Madrid",
+      "timeOfEvent": "2022-05-01 20:00",
+      "result": "4:0",
+      "competition": "Liga Prvaka - Playoff",
+      "sport": "Nogomet",
+      "category": "Europa",
+      "status": "inPlay",
+      "isFavourite": true
+    },
+    {
+      "id": 4,
+      "opponents": "West Ham - Everton",
+      "timeOfEvent": "2022-05-04 13:00",
+      "result": "0:0",
+      "competition": "Premier League",
+      "sport": "Nogomet",
+      "category": "Engleska",
+      "status": "inPlay",
+      "isFavourite": true
+    },
+    {
+      "id": 5,
+      "opponents": "Manchester United - Watford",
+      "timeOfEvent": "2022-05-04 15:00",
+      "result": "0:0",
+      "competition": "Premier League",
+      "sport": "Nogomet",
+      "category": "Engleska",
+      "status": "inPlay",
+      "isFavourite": false
+    },
+    {
+      "id": 6,
+      "opponents": "Inter - Milan",
+      "timeOfEvent": "2022-05-05 16:00",
+      "result": "0:0",
+      "competition": "Serie A",
+      "sport": "Nogomet",
+      "category": "Italija",
+      "status": "inPlay",
+      "isFavourite": false
+    },
+    {
+      "id": 7,
+      "opponents": "Vincenza - Cosenza",
+      "timeOfEvent": "2022-05-05 18:00",
+      "result": "1:0",
+      "competition": "Serie B",
+      "sport": "Nogomet",
+      "category": "Italija",
+      "status": "inPlay",
+      "isFavourite": false
+    },
+    {
+      "id": 8,
+      "opponents": "Boston - Washington",
+      "timeOfEvent": "2022-05-05 00:30",
+      "result": "5:4",
+      "competition": "NHL",
+      "sport": "Hokej",
+      "category": "NHL",
+      "status": "inPlay",
+      "isFavourite": false
+    },
+    {
+      "id": 9,
+      "opponents": "Djokovic - Nadal",
+      "timeOfEvent": "2022-05-01 15:00",
+      "result": "3:2",
+      "competition": "Australian Open",
+      "sport": "Tenis",
+      "category": "Australian Open",
+      "status": "inPlay",
+      "isFavourite": false
+    },
+    {
+      "id": 10,
+      "opponents": "Federer - Zverev",
+      "timeOfEvent": "2022-05-02 20:00",
+      "result": "3:1",
+      "competition": "Australian Open",
+      "sport": "Tenis",
+      "category": "Australian Open",
+      "status": "inPlay",
+      "isFavourite": false
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "name": "Nogomet"
+    },
+    {
+      "id": 2,
+      "name": "Tenis"
+    },
+    {
+      "id": 3,
+      "name": "Hokej"
+    }
+  ]
+}
